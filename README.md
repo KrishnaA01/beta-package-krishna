@@ -8,7 +8,7 @@
 npm i beta-package-krishna
 ```
 
-## Usage
+
 
 ## Usage:
 * CommonJS Syntax

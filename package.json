@@ -1,0 +1,20 @@
+{
+  "name": "beta-package-krishna",
+  "version": "1.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishnaA01/beta-package-krishna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrishnaA01/beta-package-krishna/issues"
+  },
+  "homepage": "https://github.com/KrishnaA01/beta-package-krishna#readme"
+}
